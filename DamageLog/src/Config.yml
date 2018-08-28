@@ -1,0 +1,11 @@
+Language:
+    LogName: "§2-------- §eDamageLog §2--------"
+    InfoName: "§a [§eInfos§a]"
+    DamageOutMessage: "§aYou §e► §f%damage% §e► §a%entity%"
+    DamageInMessage: "§cYou §e◄ §f%damage% §e◄ §c%entity%"
+    HoverMessage:
+    - 'DamageLog'
+    - 'DamageType: %type%'
+    DamageValueMessage: "§aYoure DamageValue §7(DamageOutput/DamageInput)§a: §c%damagevalue%"
+LogSize: 15
+DamageLogOnRespawn: true

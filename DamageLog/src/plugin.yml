@@ -1,0 +1,13 @@
+name: DamageLog
+description: See your CombatLog
+main: dl.Core
+version: 1.0.2
+website: https://avarioncraft.de/
+author: [Firea, Gestankbratwurst]
+commands:
+  damagelog:
+    description: Prints the DamageLog to Players
+    permission: damagelog.showdamagelog
+  damagevalue:
+    description: Prints the DamageValue to Players
+    permission: damagelog.showdamagevalue
